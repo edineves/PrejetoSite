@@ -3,6 +3,10 @@
     font-size: 16px;
 }
 
+.lado {
+  float:left;
+}
+
 body{
     background-color: bisque;
 
